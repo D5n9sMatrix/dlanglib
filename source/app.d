@@ -1,5 +1,9 @@
 
-void main(dlang, lib)
+int main()
 {
-	return dlang[lib];
+	struct lib
+	{
+        void openlook()@trusted;
+ 	}
+return 0;
 }
