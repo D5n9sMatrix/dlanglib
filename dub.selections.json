@@ -1,0 +1,7 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"dutil": "0.0.2",
+		"emsi_containers": "0.9.0"
+	}
+}

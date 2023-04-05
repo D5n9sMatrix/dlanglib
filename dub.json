@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"D5n9sMatrix"
+	],
+	"copyright": "Copyright ® 2023, D5n9sMatrix",
+	"dependencies": {
+		"dutil": "~>0.0.2"
+	},
+	"description": "value plot lib",
+	"license": "MIT",
+	"name": "dlanglib"
+}
